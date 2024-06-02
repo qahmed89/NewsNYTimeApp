@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="go_to_link" translatable="false">ssds</string>
+    <string name="error_title" translatable="false">Sorry</string>
+    <string name="error_message" translatable="false">Something went wrong! Please try again!</string>
+    <string name="error_alert_dialog_retry" translatable="false">Retry</string>
+    <string name="error_alert_dialog_Cancel" translatable="false">Cancel</string>
+
+</resources>
